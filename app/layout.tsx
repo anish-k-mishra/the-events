@@ -33,12 +33,12 @@ export default function RootLayout({
         <body
           className={poppins.variable}
         >
-          <SignedOut>
+          {/* <SignedOut>
             <SignInButton />
           </SignedOut>
           <SignedIn>
             <UserButton />
-          </SignedIn>
+          </SignedIn> */}
           {children}
         </body>
       </html>
