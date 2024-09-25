@@ -4,7 +4,7 @@ import { clerkClient, WebhookEvent } from '@clerk/nextjs/server'
 import { createUser, deleteUser, updateUser } from '@/lib/actions/user.actions'
 import { NextResponse } from 'next/server'
 
-//b3YeFlnYdDcZlM5n
+//Password - b3YeFlnYdDcZlM5n
 
 
 
